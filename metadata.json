@@ -1,0 +1,7 @@
+{
+  "name": "ParkFindrr",
+  "description": "A smart playground locator with detailed amenity analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
